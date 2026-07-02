@@ -3,28 +3,28 @@
 ### Feature Importance
 The Random Forest model identified the most influential variables contributing to diabetic patient readmission prediction.
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
 ### Random Forest Confusion Matrix
 The confusion matrix summarizes the model's prediction performance by comparing actual and predicted readmission outcomes.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
 ### ROC Curve
 The ROC curve evaluates the model's ability to distinguish between readmitted and non-readmitted patients. The model achieved an ROC-AUC score of **0.660**, indicating moderate predictive performance.
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ---
 
 ### Sample Decision Tree
 A representative decision tree from the Random Forest model illustrating how diagnosis, medication, and demographic features contribute to prediction decisions.
 
-![Decision Tree](images/decision_tree.png)
+![Decision Tree](decision_tree.1.png)
 
 ## 🛠️ Technologies Used
 
